@@ -1,8 +1,21 @@
 # Seed Pixel Matrix
 <img src="./img/seed_pixel_matrix_v1.0.png" width="800">
+- PCB size is 25mm x 300mm (0.98" x 11.81")
+- Each PCB uses 3 loops of LED seed pixels.  For example a loop of 64 seed would be one continuous string of 32 seeds down and 32 seeds up.
+- PCBs can be joined together using the in and out pads on the sides of the board
 
-This PCB is used to build a seed pixel matrix
+This PCB is my solution for building a seed pixel matrix on my garage door.  I still needed my garage door to function so I could pull my car in and out easily.  I also wanted to use seed pixels since they are small and save on weight and I wanted nice even spacing of the matrix.  The total size of my matrix is 32 x 84 or 2688 pixels.  I used 14 of the boards on my 16' garage door.  42 strings of 64 seed pixels.  I joined 2 boards together and uses 7 ports on my controller (384 pixels per port).
 
 <img src="./img/IMG_4849.png" width="800">
 
 <img src="./img/IMG_4851.png" width="800">
+
+## How do I make them waterproof?
+Im not sure if you can make them 100% waterproof.  You could try using a dab of silicon or liquid electrical tape on each solder joint.  Conformal Coating may work too. 
+
+## How do I hang them?
+There are 2 mounting holes on the PCB.  My garage door is made of wood, so im using screws to mount them directly to the garage door.  If you dont want to make holes or you are mounting these to metal you could use 3M command strips or maybe expoxy some neodymium magnets to the back of the PCB.
+
+## How can I make them evenly spaced?
+I have included an STL file for a 3D printed spacer.  You will need to print 2 spacers for each PCB.  The spacers are joined together using a 5/16-18 bolt (like these: https://www.amazon.com/dp/B00OHU2QVU).  The bolt also provides weight to help pull the strings straight.  The spacer is hooked on near the bottom of the LED loop.
+
