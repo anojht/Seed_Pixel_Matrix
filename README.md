@@ -13,7 +13,8 @@ This PCB is my solution for building a seed pixel matrix on my garage door.  I n
 ## Version 1.1 changes:
 - added a new board for 2.5cm pixel spacing
 - added cut lines so board can be cut to make it shorter if needed
-- added pads at cut line so the off cuts can be used 
+- added pads at cut line so the off cuts can be used
+- added holes for zip ties for strain relief
 
 <img src="./img/IMG_4849.png" width="800">
 
