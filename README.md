@@ -1,5 +1,6 @@
 # Seed Pixel Matrix
-<img src="./img/seed_pixel_matrix_v1.0.png" width="800">
+<img src="./img/seed_pixel_matrix_5cm_v1.1.png" width="800">
+<img src="./img/seed_pixel_matrix_2.5cm_v1.1.png" width="800">
 
 - PCB size is 25mm x 300mm (0.98" x 11.81")
 - Designed to use seed pixels with 5cm spacing
@@ -9,9 +10,15 @@
 
 This PCB is my solution for building a seed pixel matrix on my garage door.  I needed my garage door to still function so I could pull my car in and out easily.  I also wanted to use seed pixels since they are small and save on weight and I wanted nice even spacing of the matrix.  The total size of my matrix is 32 x 84 or 2688 pixels.  I used 14 of the boards on my 16' garage door.  42 loops of 64 seed pixels.  I joined 2 boards together and used 7 ports on my controller (384 pixels per port).
 
+## Version 1.1 changes:
+- added a new board for 2.5cm pixel spacing
+- added cut lines so board can be cut to make it shorter if needed
+- added pads at cut line so the off cuts can be used 
+
 <img src="./img/IMG_4849.png" width="800">
 
 <img src="./img/IMG_4851.png" width="800">
+
 
 ## How do I make them waterproof?
 Im not sure if you can make them 100% waterproof.  You could try using a dab of silicon or liquid electrical tape on each solder joint.  Conformal Coating may work too. 
