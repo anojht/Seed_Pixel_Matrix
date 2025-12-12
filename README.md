@@ -1,6 +1,6 @@
 # Seed Pixel Matrix
-<img src="./img/seed_pixel_matrix_5cm_v1.1.png" width="800">
-<img src="./img/seed_pixel_matrix_2.5cm_v1.1.png" width="800">
+<img src="./img/Seed_Pixel_Matrix_5cm_V1.1.png" width="800">
+<img src="./img/Seed_Pixel_Matrix_2.5cm_V1.1.png" width="800">
 
 - PCB size is 25mm x 300mm (0.98" x 11.81")
 - Designed to use seed pixels with 5cm spacing
