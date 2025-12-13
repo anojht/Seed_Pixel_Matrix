@@ -15,6 +15,8 @@ This PCB is my solution for building a seed pixel matrix on my garage door.  I n
 - added cut lines so board can be cut to make it shorter if needed
 - added pads at cut line so the off cuts can be used
 - added holes for zip ties for strain relief
+- added more mounting holes
+- added updated stl space files
 
 <img src="./img/IMG_4849.png" width="800">
 
