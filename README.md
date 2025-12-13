@@ -3,7 +3,7 @@
 <img src="./img/Seed_Pixel_Matrix_2.5cm_V1.1.png" width="800">
 
 - PCB size is 25mm x 300mm (0.98" x 11.81")
-- Designed to use seed pixels with 5cm spacing
+- Designed to use seed pixels with 5cm and 2.5cm spacing
 - Each PCB uses 3 loops of LED seed pixels.  For example a loop of 64 seed pixels would be one continuous string of 32 seed pixels down and 32 seed pixels up.
 - PCBs can be joined together using the in and out pads on the sides of the board
 - The gerber files for the PCB and the STL file for the spacer are included in this project
